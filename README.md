@@ -2,7 +2,7 @@
 
 https://masfir.github.io/VirtualMouse/
 
-#Output:
+# Output:
 
 ![Screenshot_3](https://user-images.githubusercontent.com/101929096/192082700-d432aea4-490e-4d5d-8c77-e09c60bf4ea4.png)
 
