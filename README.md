@@ -2,6 +2,11 @@
 
 https://masfir.github.io/VirtualMouse/
 
+# How to run this project:
+
+->Install python version 3.7.9 and install the editor Pycharm.
+->Set the Interpreter in Pycharm.
+
 # Output:
 
 ![Screenshot_3](https://user-images.githubusercontent.com/101929096/192082700-d432aea4-490e-4d5d-8c77-e09c60bf4ea4.png)
